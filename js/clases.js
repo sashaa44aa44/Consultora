@@ -41,3 +41,4 @@ class Sistema {
         this.listaPuestos.push(unPuesto);
     }
 }
+//hola
